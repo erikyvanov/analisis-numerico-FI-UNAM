@@ -3,6 +3,7 @@
 .ipynb_checkpoints/*
 /metodos_iterativos/.ipynb_checkpoints/*
 /sistemas_de_ecuaciones/.ipynb_checkpoints/*
+/sistemas_de_ecuaciones/__pycache__/*
 
 /ejercicios
 /pruebas
